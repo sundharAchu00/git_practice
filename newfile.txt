@@ -3,3 +3,5 @@ This file is from gitHub repository
 "this is new from first branch feature"
 
 "After adding the collbrator"
+
+"macha request accept pannu"
