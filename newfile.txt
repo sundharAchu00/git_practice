@@ -5,3 +5,5 @@ This file is from gitHub repository
 "After adding the collbrator"
 
 "macha request accept pannu"
+
+"second branch edited"
